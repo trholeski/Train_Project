@@ -1,6 +1,10 @@
-/* div{
-    border: .5px solid black;
-} */
+body{
+    background-color: rgb(87, 116, 144);
+}
+    #banner{
+    background-color: #b89a9a;
+    border-radius: 40px;
+}
 #parentContainer{
     width: 100%;
     align: center;
@@ -9,8 +13,3 @@
 #numRecordsLabel {
     display: inline-block;
 }
-
-/* form {
-    width: 80%;
-    align: center;
-}; */
